@@ -1,16 +1,16 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
+  "title": "Ecom || Ghana",
   "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce -> https://www.nextjs.org/commerce",
+  "description": "ghana bigest shop where every body shop",
   "openGraph": {
     "type": "website",
     "locale": "en_IE",
     "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce"
+    "site_name": "Ecom"
   },
   "twitter": {
-    "handle": "@nextjs",
-    "site": "@nextjs",
+    "handle": "ecomOfficial",
+    "site": "ecom",
     "cardType": "summary_large_image"
   }
 }
